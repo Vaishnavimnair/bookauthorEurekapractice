@@ -1,0 +1,10 @@
+#spring.application.name=BookService
+spring:
+  application:
+    name: book-service
+  cloud:
+    openfeign:
+      enabled: true
+server:
+  port: 8100
+

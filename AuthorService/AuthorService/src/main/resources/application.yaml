@@ -1,0 +1,7 @@
+#spring.application.name=AuthorService
+
+spring:
+  application:
+    name: AuthorService
+server:
+  port: 8081
